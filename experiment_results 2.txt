@@ -1,0 +1,10 @@
+Configuration Results:
+blocks=2, filter_size=3, filter_number=32, region_size=2, epochs=20, activation=relu, accuracy=98.91%, training_time=170.20 seconds
+blocks=3, filter_size=3, filter_number=64, region_size=2, epochs=20, activation=relu, accuracy=99.00%, training_time=413.41 seconds
+blocks=4, filter_size=5, filter_number=64, region_size=2, epochs=25, activation=relu, accuracy=99.23%, training_time=2265.97 seconds
+blocks=3, filter_size=3, filter_number=128, region_size=2, epochs=30, activation=relu, accuracy=99.16%, training_time=1794.67 seconds
+blocks=2, filter_size=3, filter_number=32, region_size=2, epochs=20, activation=tanh, accuracy=98.65%, training_time=196.56 seconds
+blocks=3, filter_size=5, filter_number=64, region_size=2, epochs=25, activation=relu, accuracy=99.30%, training_time=1089.43 seconds
+
+Best Configuration:
+blocks=3, filter_size=5, filter_number=64, region_size=2, epochs=25, activation=relu, accuracy=99.30%

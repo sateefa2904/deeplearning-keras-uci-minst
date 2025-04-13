@@ -1,0 +1,10 @@
+Configuration Results:
+layers=4, units_per_layer=[500, 400, 300, 200], activations=['relu', 'relu', 'relu', 'relu'], epochs=20, batch_size=128, accuracy=98.45%, training_time=55.16 seconds
+layers=5, units_per_layer=[600, 500, 400, 300, 200], activations=['relu', 'relu', 'relu', 'relu', 'relu'], epochs=30, batch_size=128, accuracy=98.50%, training_time=131.51 seconds
+layers=5, units_per_layer=[512, 512, 256, 128, 64], activations=['relu', 'relu', 'relu', 'relu', 'relu'], epochs=30, batch_size=128, accuracy=98.31%, training_time=96.52 seconds
+layers=6, units_per_layer=[600, 500, 400, 300, 200, 100], activations=['relu', 'relu', 'relu', 'relu', 'relu', 'relu'], epochs=40, batch_size=128, accuracy=98.44%, training_time=2180.99 seconds
+layers=5, units_per_layer=[600, 500, 400, 300, 200], activations=['swish', 'swish', 'swish', 'swish', 'swish'], epochs=30, batch_size=128, accuracy=98.48%, training_time=130.60 seconds
+layers=5, units_per_layer=[600, 500, 400, 300, 200], activations=['relu', 'relu', 'relu', 'relu', 'relu'], epochs=30, batch_size=256, accuracy=98.47%, training_time=155.50 seconds
+
+Best Configuration:
+layers=5, units_per_layer=[600, 500, 400, 300, 200], activations=['relu', 'relu', 'relu', 'relu', 'relu'], epochs=30, batch_size=128, accuracy=98.50%
