@@ -54,7 +54,7 @@ python cnn_mnist_base.py
 ## Author
 
 Soli Ateefa – CS Honors @ UTA | Deep Learning Researcher  
-✨ Building models that decode the biological and digital world.
+Building models that decode the biological and digital world.
 
 > Let's connect: [LinkedIn](https://linkedin.com/in/sateefa2904)
 
@@ -62,5 +62,5 @@ Soli Ateefa – CS Honors @ UTA | Deep Learning Researcher
 
 ## License
 
-MIT License. Free to use with credit 💖
+MIT License. Free to use with credit
 ```
